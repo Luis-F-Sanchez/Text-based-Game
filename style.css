@@ -1,0 +1,39 @@
+html { 
+    background: url(https://cdn.wallpapersafari.com/30/36/4DioyC.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.title {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.tContinue {
+    margin-top: 125px;
+    font-size: 25px;
+    color: white;
+}
+
+.text {
+    margin-top: 165px;
+    margin-bottom: 0%;
+    font-size: 13px;
+    color: white;
+}
+
+iframe {
+    position: fixed;
+    bottom:0;
+    left:0;
+}
+
+.clickHere {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    font-size: 15px;
+}

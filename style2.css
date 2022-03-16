@@ -1,0 +1,44 @@
+html { 
+    background: url(https://www.ps4wallpapers.com/wp-content/uploads/2018/01/PS4Wallpapers.com_5a5d65bc5bd78_DyingLight-1056x594.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.cText {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.781);
+    color: orange;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    margin: 10%;
+    margin-top: 18%;
+    padding: 10px;
+}
+
+.choice {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 46%;
+    /* margin-right: 20%;  */
+}
+
+button {
+    font-size: 20px;
+}
+
+iframe {
+    position: fixed;
+    bottom:0;
+    left:0;
+}
+
+.clickHere {
+    position: fixed;
+    bottom: 0;
+    left: -100px;
+    font-size: 15px;
+}
